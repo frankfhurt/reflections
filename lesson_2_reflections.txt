@@ -18,7 +18,8 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	Here
+	It is very helpful for new features, bug fixes or to make some other big modification
+	in the program. It helps to keep two versions of the code in separate places.
 
 How do the diagrams help you visualize the branch structure?
 
