@@ -1,1 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+
+
+
+
+Comands:
+
+git push	| pushes the local commits to the remote repository
+git pull	| gets the latest state of the remote repository
