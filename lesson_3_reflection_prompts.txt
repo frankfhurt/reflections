@@ -22,3 +22,4 @@ git push		| pushes the local commits to the remote repository
 git pull		| gets the latest state of the remote repository
 git remote		| show the remotes
 git remote -v	| show the remotes and their URLs
+git fetch		| update just the local copy of the remote branch from the remote
