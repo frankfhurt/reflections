@@ -2,10 +2,15 @@ When would you want to use a remote repository rather than keeping all your work
 
 	To share the project with some teammates or just to have a backup.
 	
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	because sometimes you are just making a local test and you don't really want to update the remote
 
 
 
 Comands:
 
-git push	| pushes the local commits to the remote repository
-git pull	| gets the latest state of the remote repository
+git push		| pushes the local commits to the remote repository
+git pull		| gets the latest state of the remote repository
+git remote		| show the remotes
+git remote -v	| show the remotes and their URLs
