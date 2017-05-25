@@ -15,6 +15,9 @@ Describe the differences between forks, clones, and branches. When would you use
 	This is very helpful when we want to performe bug fixes, features or just to make some tests without changing
 	a master branch.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It gets easier to track how far you are from the remote and it helps to performe fast-foward merge
 
 Comands:
 
