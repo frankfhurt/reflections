@@ -6,7 +6,14 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	because sometimes you are just making a local test and you don't really want to update the remote
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+	Fork is a GitHub tool that clones a repository from a user to another.
+	Clone is used when we want to copy some remote repository to our local.
+	Branch is used when we want to stop commiting in some branch and start to commit in another one.
+	This is very helpful when we want to performe bug fixes, features or just to make some tests without changing
+	a master branch.
+	
 
 Comands:
 
