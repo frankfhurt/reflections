@@ -24,6 +24,12 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Maybe sharing the files in the cloud. It would be very hard to control the versions of the code and track 
 	who and what has been updated
 	
+	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	It's very good to make changes in a separate branch in order to make pull requests. This kind of approach is good to have 
+	some code review before commit your code in the master branch
+
 Comands:
 
 git push		| pushes the local commits to the remote repository
